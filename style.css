@@ -2,6 +2,8 @@ html {
   height: 100%;
   width: 100%;
   margin: 50px;
+  box-sizing: border-box;
+  text-align: center;
 }
 
 header, footer {
@@ -11,4 +13,8 @@ header, footer {
 
 main {
   background-color: lightgray;
+}
+
+main p {
+  text-align: justify;
 }
