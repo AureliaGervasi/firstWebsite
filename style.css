@@ -8,11 +8,15 @@ header, footer {
   background-color: #ceff00;
   color: gray;
   text-align: center;
+  margin: 0;
+  padding: 0;
 }
 
 main {
   background-color: lightgray;
   text-align: center;
+  margin: 0;
+  padding: 0;
 }
 
 main p {
