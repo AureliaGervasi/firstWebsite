@@ -3,3 +3,11 @@ html {
   width: 100%;
 }
 
+header, footer {
+  background-color: #ceff00;
+  color: gray;
+}
+
+main {
+  background-color: lightgray;
+}
