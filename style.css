@@ -1,18 +1,18 @@
 html {
   height: 100%;
   width: 100%;
-  margin: 50px;
   box-sizing: border-box;
-  text-align: center;
 }
 
 header, footer {
   background-color: #ceff00;
   color: gray;
+  text-align: center;
 }
 
 main {
   background-color: lightgray;
+  text-align: center;
 }
 
 main p {
