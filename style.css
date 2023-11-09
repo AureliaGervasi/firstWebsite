@@ -15,7 +15,9 @@ header {
 }
 
 header div {
+  display: inline-block;
   vertical-align: middle;
+  
 }
 
 /*formats image only*/
