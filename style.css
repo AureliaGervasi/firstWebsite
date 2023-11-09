@@ -49,3 +49,19 @@ main {
   text-align: left;
   margin-left: 500px;
 }
+
+a:link {
+  color: blue;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  color: pink;
+}
+
+a:active {
+  color: orange;
+}
