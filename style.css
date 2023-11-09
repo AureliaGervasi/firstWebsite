@@ -15,11 +15,6 @@ header {
   height: 400px;
 }
 
-header div {
-  vertical-align: middle;
-  float: left;
-}
-
 /*formats image only*/
 img {
   margin: 25px;
