@@ -13,6 +13,9 @@ html {
 header {
   height: 400px;
   padding: 25px;
+}
+
+header div {
   vertical-align: middle;
 }
 
@@ -50,6 +53,7 @@ main {
   margin-left: 500px;
 }
 
+/*sets different colors when user interacts with links on page*/
 a:link {
   color: blue;
 }
