@@ -16,6 +16,7 @@ header {
   height: 400px;
   padding: 25px;
   vertical-align: middle;
+  float: left;
 }
 
 img {
