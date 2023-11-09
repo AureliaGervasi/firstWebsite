@@ -12,6 +12,7 @@ html {
 /*formats header only*/
 header {
   padding: 25px;
+  height: 400px;
 }
 
 header div {
