@@ -16,6 +16,7 @@ header {
 footer {
   height: 200px;
   font-size: 20px;
+  vertical-align: center;
 }
 
 header, footer {
